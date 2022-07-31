@@ -14,7 +14,7 @@
 
 <script>
 	export let movieDetail;
-	console.log(movieDetail);
+	// console.log(movieDetail);
 	import { fly } from 'svelte/transition';
 </script>
 
